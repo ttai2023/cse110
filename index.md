@@ -1,26 +1,26 @@
 # My User Page
 
 ## Introduction
-**Name:** Terri Tai
-![Local Image](./mypicture.pngg "My Picture")
-**Major:** Computer Engineering 
-**Grad Year:** 2027
+**Name:** Terri Tai\
+![Local Image](./mypicture.png "My Picture") 
+**Major:** Computer Engineering\
+**Grad Year:** 2027\
 
 ## Clubs
-> Women in Computing
+> Women in Computing\
 > Institute of Electrical and Electronic Engineers
 
 ## Fun Facts
-Favourite Git command:
+*Favourite Git command:*
 ```
 git commit -m "fun facts"
 ```
 
-Hobbies:
-> Playing guitar
+*Hobbies:*
+> Playing guitar\
 > Performing magic
 
-Languages I know:
+*Languages I know:*
 - Python
 - Java
 - C
@@ -29,7 +29,7 @@ Languages I know:
 - HTML
 - CSS
 
-Languages I know ranked:
+*Languages I know ranked:*
 1. Java
 2. Python
 3. C++
@@ -38,10 +38,12 @@ Languages I know ranked:
 6. C
 7. ARM32
 
-To-Do:
-[ ] Get an internship! :tada:
+*To-Do:*\
+- [ ] Get an internship! :tada:
 
-Here is my [LinkedIn](https://www.linkedin.com/in/terri-tai-732a21229/)
-Here is the link to the introduction section:[Link Text](#introduction)
-Here is the link to the clubs section:[Link Text](#clubs)
-Here is the link to the fun facts section:[Link Text](#fun-facts)
+Here is my [LinkedIn](https://www.linkedin.com/in/terri-tai-732a21229/)\
+Here is the [Introduction Section](#introduction)\
+Here is the [Clubs Section](#clubs)\
+Here is the [Fun Facts Section](#fun-facts)\
+
+<ins>The End</ins>
