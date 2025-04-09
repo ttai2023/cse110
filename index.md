@@ -39,7 +39,7 @@ git commit -m "fun facts"
 7. ARM32
 
 *To-Do:*
-- [ ] Get an internship :cold_sweat:
+- [ ] Get an internship 😰
 
 Here is my [LinkedIn](https://www.linkedin.com/in/terri-tai-732a21229/)\
 Here is the [Introduction Section](#introduction)\
