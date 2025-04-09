@@ -4,7 +4,7 @@
 **Name:** Terri Tai\
 ![Local Image](./mypicture.png "My Picture") 
 **Major:** Computer Engineering\
-**Grad Year:** 2027\
+**Grad Year:** 2027
 
 ## Clubs
 > Women in Computing\
@@ -38,12 +38,12 @@ git commit -m "fun facts"
 6. C
 7. ARM32
 
-*To-Do:*\
-- [ ] Get an internship! :tada:
+*To-Do:*
+- [ ] Get an internship :cold_sweat:
 
 Here is my [LinkedIn](https://www.linkedin.com/in/terri-tai-732a21229/)\
 Here is the [Introduction Section](#introduction)\
 Here is the [Clubs Section](#clubs)\
-Here is the [Fun Facts Section](#fun-facts)\
+Here is the [Fun Facts Section](#fun-facts)
 
-<ins>The End</ins>
+## <ins>The End</ins> ##
