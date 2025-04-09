@@ -46,4 +46,6 @@ Here is the [Introduction Section](#introduction)\
 Here is the [Clubs Section](#clubs)\
 Here is the [Fun Facts Section](#fun-facts)
 
+[README for this project](README.md)
+
 ## <ins>The End</ins> ##
